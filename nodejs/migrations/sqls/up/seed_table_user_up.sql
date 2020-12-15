@@ -1,0 +1,1 @@
+INSERT INTO `user` (`email`, `password`) VALUES ('admin@ecoc.io', '$2b$10$KjQL/NBLjbx0im1UOEnAluram5VAEpYK.knOj1qBdQzkOd.xh5DZ.')
